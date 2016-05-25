@@ -27,6 +27,7 @@ The first thig we have to do is import the dependencies into our server:
 ````
 
 - Gradle
+
 ````
 compile group: 'org.springframework.cloud', name: 'spring-cloud-config-server'
 ````
