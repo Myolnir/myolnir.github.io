@@ -6,7 +6,6 @@ category: tech
 tags: [ 'tutorial', 'spring', 'documentation', 'cloud' ]
 ---
 
-# How to create a cloud server to retrieve your configuration from it
 
 When you work in a microservice environment, the configuration of all your microservices could be turned a little bit tricky, for solve this, spring provide us an infraestructure to manage all our application.
 
@@ -19,16 +18,19 @@ To configure our services to run under a config server, the first thing we have 
 The first thig we have to do is import the dependencies into our server:
 
 - Maven
+
 ````
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-config-server</artifactId>
 </dependency>
 ````
+
 - Gradle
 ````
 compile group: 'org.springframework.cloud', name: 'spring-cloud-config-server'
 ````
+
 
 If we create a standar spring boot application, we have when create the project a main class that should be similar to this:
 
@@ -79,7 +81,7 @@ Our repository has this aspect
 
 Once started our config server if we go to _http://localhost:8888/configserver/sampleconfig/production_ we can see the production environment file and the common files for all profiles
 
-![Production config file](/img/springcloud-productionfile.png)
+![Production config file](/img/springcloud-productionFile.png)
 
 The same will occur with the other files.
 
@@ -90,6 +92,7 @@ Now is time of configure our config client
 As the config server, the first thig we have to do is import the dependencies into our application:
 
 - Maven
+
 ````
 <dependency>
     <groupId>org.springframework.cloud</groupId>
@@ -100,7 +103,9 @@ As the config server, the first thig we have to do is import the dependencies in
     <artifactId>spring-boot-starter-actuator</artifactId>
 </dependency>
 ````
+
 - Gradle
+
 ````
 compile group: 'org.springframework.cloud', name: 'spring-cloud-config-client'
 compile group: 'org.springframework.boot', name: 'spring-boot-starter-actuator'
