@@ -112,7 +112,7 @@ compile group: 'org.springframework.cloud', name: 'spring-cloud-config-client'
 compile group: 'org.springframework.boot', name: 'spring-boot-starter-actuator'
 ````
 
-In this case we can see that get also the actuator dependency, adds some extra endpoints to nosssa application for the purpose of providing various metric data, it is very useful for the production environment as there are several endpoins that check the status of the application, settings, error pages, version details among others, also allows to us call to the /refresh endpont that we will see an the end of this tutorial.
+In this case we can see that get also the actuator dependency, adds some extra endpoints to our application for the purpose of providing various metric data, it is very useful for the production environment as there are several endpoins that check the status of the application, settings, error pages, version details among others, also allows to us call to the /refresh endpont that we will see an the end of this tutorial.
 
 Now we create a new spring boot project, this time will be a service that consumes the configuration that we configuration server provides.
 
