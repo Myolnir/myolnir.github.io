@@ -121,7 +121,7 @@ Lets explain what you see in this class:
 * EnableMvc imports the spring MVC configuration
 * The more importan thing is the Docket Bean creation, this bean configure the whole spring, swagger and sprinfox integration.
 
-I don't want copy and paste the springfox documentation so <a href=http://springfox.github.io/springfox/docs/current/ target="_blank">here</a> you have the springfox official documentation.
+I don't want copy and paste the springfox documentation so <a href="http://springfox.github.io/springfox/docs/current/" target="_blank">here</a> you have the springfox official documentation.
 
 Once configured when you start your spring boot application running it by gradle, maven, or even a executable jar you can get the swagger config in json format in the url: http://localhost:8080/v2/api-docs
 
