@@ -17,4 +17,4 @@ _deploy/*
 Rakefile
 
 .jekyll-metadata
-.idea
+.idea*
