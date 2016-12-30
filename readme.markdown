@@ -4,7 +4,7 @@
 
 Website and Blog of [Angel Muelas](http://myolnir.github.io), built with [jekyll](jekyllrb.com)
 
-Don't fork this repo! 
+Please Don't fork this repo! 
 
 ## License
 
