@@ -91,7 +91,7 @@ disqus-shortname: "myolnir"
 ###############
 
 events:
-  - image: "/img/career/bbvainnovationcenter.jpg"
+  - image: "/img/career/bbvainnovationcenter.png"
     date: "December 2016 - Today"
     description: "Senior Software Engineer @ <a href=\"http://www.centrodeinnovacionbbva.com\" target=\"_blank\">Centro de Innovación BBVA</a>, working in a multidisciplinary environment with the most innovating technologies"
   - image: "/img/career/momit.jpg"
