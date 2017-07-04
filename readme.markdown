@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/myolnir/myolnir.github.io.svg?branch=master)
+![Build Status](https://api.travis-ci.org/Myolnir/myolnir.github.io.svg?branch=master)
 
 # { Angel Muelas }
 
