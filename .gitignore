@@ -20,3 +20,5 @@ Rakefile
 .idea/*
 
 .idea/workspace.xml
+img/.DS_Store
+img/career/.DS_Store

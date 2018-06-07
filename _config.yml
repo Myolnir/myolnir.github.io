@@ -91,8 +91,11 @@ disqus-shortname: "myolnir"
 ###############
 
 events:
+  - image: "/img/career/denizen.jpg"
+    date: "June 2018 - Actual"
+    description: "Senior Software Engineer @ <a href=\"http://www.denizen.io\" target=\"_blank\">Denizen</a>Working as a full stack engineer for Denizen.io, creating a new bank from scratch."
   - image: "/img/career/bbvainnovationcenter.png"
-    date: "December 2016 - Today"
+    date: "December 2016 - June 2018"
     description: "Senior Software Engineer @ <a href=\"http://www.centrodeinnovacionbbva.com\" target=\"_blank\">Centro de Innovación BBVA</a>, working in a multidisciplinary environment with the most innovating technologies"
   - image: "/img/career/momit.jpg"
     date: "April 2016 - December 2016"
