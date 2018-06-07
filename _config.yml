@@ -92,11 +92,8 @@ disqus-shortname: "myolnir"
 
 events:
   - image: "/img/career/denizen.jpg"
-    date: "June 2018 - Actual"
-    description: "Senior Software Engineer @ <a href=\"http://www.denizen.io\" target=\"_blank\">Denizen</a>Working as a full stack engineer for Denizen.io, creating a new bank from scratch."
-  - image: "/img/career/bbvainnovationcenter.png"
-    date: "December 2016 - June 2018"
-    description: "Senior Software Engineer @ <a href=\"http://www.centrodeinnovacionbbva.com\" target=\"_blank\">Centro de Innovación BBVA</a>, working in a multidisciplinary environment with the most innovating technologies"
+    date: "December 2016 - Actual"
+    description: "Senior Software Engineer @ <a href=\"http://www.denizen.io\" target=\"_blank\">Denizen</a>, working as a full stack engineer for Denizen.io, creating a new bank from scratch. Giving a new approach to the fintech world, us, Denizen have created a new approach to bank, borderless accounts. All of that with the top technologies like Javascript, Java, MongoDB, RabbitMQ"
   - image: "/img/career/momit.jpg"
     date: "April 2016 - December 2016"
     description: "Senior Software Engineer / Java Architect @ <a href=\"http://momit.com\" target=\"_blank\">Momit</a>, working as a Java architect and team lead for all the company projects, migrating all of them to a new platform based in microservices, also supporting the old application adding new functionalities and mantain all the system.<a href=\"http://www.momit.com\" target=\"_blank\"> Momit</a>"
