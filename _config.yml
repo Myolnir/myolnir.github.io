@@ -30,12 +30,12 @@ icon-192p: "/img/web-app/icon-192p.png"
 # HTML Head #
 #############
 
-author: "Angel Muelas"
+author: "Angel Muelas Martinez"
 lang: "en"
-title: "{ Angel Muelas }"
+title: "{ Angel Muelas Martinez }"
 favicon: "/img/favicon.ico"
-description: "Blog of Angel Muelas, blogging mainly about tech. Opinions expressed are mine."
-keywords: "angel, muelas, technology, computer science, java, scala, groovy, tdd"
+description: "Blog of Angel Muelas Martinez, blogging mainly about tech. Opinions expressed are mine."
+keywords: "angel, muelas, technology, computer science, java, scala, groovy, tdd, javascript"
 
 ################
 # Intro layout #
@@ -134,6 +134,8 @@ social:
     url: "https://github.com/myolnir"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/angelmuelas/"
+  - title: "npm"
+    url: "https://www.npmjs.com/settings/myolnir/packages"
   - title: "rss"
     url: "/feed.xml"
 
