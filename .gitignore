@@ -17,8 +17,11 @@ _deploy/*
 Rakefile
 
 .jekyll-metadata
-.idea/*
+.idea/workspace.xml
+.idea/
 
 .idea/workspace.xml
 img/.DS_Store
 img/career/.DS_Store
+
+docs/.DS_Store
