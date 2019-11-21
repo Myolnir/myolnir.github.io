@@ -92,7 +92,7 @@ disqus-shortname: "myolnir"
 
 events:
   - image: "img/career/bnext.png"
-    date: "Nombember 2019 - Currently"
+    date: "November 2019 - Currently"
     description: "Technical Lead of Engineering team @ <a href=\"https://www.bnext.es\" target=\"_blank\">Bnext</a>, helping to improve both the team and the platform to reach a new level of maturity"
   - image: "/img/career/denizen.jpg"
     date: "December 2016 - November 2019"
