@@ -91,9 +91,12 @@ disqus-shortname: "myolnir"
 ###############
 
 events:
+  - image: "img/career/bnext.png"
+    date: "Nombember 2019 - Currently"
+    description: "Technical Lead of Engineering team @ <a href=\"https:www.bnext.es\" target=\"_blank\">Bnext</a>, helping to improve both the team and the platform to reach a new level of maturity"
   - image: "/img/career/denizen.jpg"
-    date: "December 2016 - Actual"
-    description: "Senior Software Engineer @ <a href=\"http://www.denizen.io\" target=\"_blank\">Denizen</a>, working as a full stack engineer for Denizen.io, creating a new bank from scratch. Giving a new approach to the fintech world, us, Denizen have created a new approach to bank, borderless accounts. All of that with the top technologies like Javascript, Java, MongoDB, RabbitMQ"
+    date: "December 2016 - November 2019"
+    description: "Senior Software Engineer @ <a href=\"https://www.denizen.io\" target=\"_blank\">Denizen</a>, working as a full stack engineer for Denizen.io, creating a new bank from scratch. Giving a new approach to the fintech world, us, Denizen have created a new approach to bank, borderless accounts. All of that with the top technologies like Javascript, Java, MongoDB, RabbitMQ"
   - image: "/img/career/momit.jpg"
     date: "April 2016 - December 2016"
     description: "Tech Lead @ <a href=\"http://momit.com\" target=\"_blank\">Momit</a>, Leading the engineering team in order of improvement the current platform to a new architecture based in micro-services and NoSQL database. All orchestrated with spring boot framework taking advantage of its implementations for cloud computing as spring cloud config, spring eureka... and with RabbitMQ as messaging service. <a href=\"http://www.momit.com\" target=\"_blank\"> Momit</a>"
