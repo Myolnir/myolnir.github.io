@@ -93,7 +93,7 @@ disqus-shortname: "myolnir"
 events:
   - image: "img/career/bnext.png"
     date: "November 2019 - Currently"
-    description: "Technical Lead of Engineering team @ <a href=\"https://www.bnext.es\" target=\"_blank\">Bnext</a>, helping to improve both the team and the platform to reach a new level of maturity"
+    description: "Technical Lead of Engineering team @ <a href=\"https://www.bnext.es\" target=\"_blank\">Bnext</a>, helping to improve both the team and the platform to reach a new level of maturity. Working on the definition of the new microservices architecture to reach the Technical maturity needed to accomplish the requirements of the Bank of Spain."
   - image: "/img/career/denizen.jpg"
     date: "December 2016 - November 2019"
     description: "Senior Software Engineer @ <a href=\"https://www.denizen.io\" target=\"_blank\">Denizen</a>, working as a full stack engineer for Denizen.io, creating a new bank from scratch. Giving a new approach to the fintech world, us, Denizen have created a new approach to bank, borderless accounts. All of that with the top technologies like Javascript, Java, MongoDB, RabbitMQ"
