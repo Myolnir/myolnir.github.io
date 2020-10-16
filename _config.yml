@@ -91,8 +91,11 @@ disqus-shortname: "myolnir"
 ###############
 
 events:
+  - image: "img/career/openbank.png"
+    date: "August 2020 - Currently"
+    description: "Technical Lead / Chapter Lead Security team @ <a href=\"https://www.openbank.es\" target=\"_blank\">Openbank</a>, Working with the team on the security area to ensure that all bank operations are securized, working with the different teams to provide them the proper tools to authenticate and authorize the openbank customers and internal users. Working very closely with the CISO in order to ensure that all requirements from product and development are covered with security. Working with Java 11, Spring boot and Go as the main tools."
   - image: "img/career/bnext.png"
-    date: "November 2019 - Currently"
+    date: "November 2019 - July 2020"
     description: "Technical Lead of Engineering team @ <a href=\"https://www.bnext.es\" target=\"_blank\">Bnext</a>, helping to improve both the team and the platform to reach a new level of maturity. Working on the definition of the new microservices architecture to reach the Technical maturity needed to accomplish the requirements of the Bank of Spain."
   - image: "/img/career/denizen.jpg"
     date: "December 2016 - November 2019"
@@ -138,7 +141,7 @@ social:
   - title: "linkedin"
     url: "https://www.linkedin.com/in/angelmuelas/"
   - title: "npm"
-    url: "https://www.npmjs.com/settings/myolnir/packages"
+    url: "https://www.npmjs.com/~myolnir"
   - title: "rss"
     url: "/feed.xml"
 
