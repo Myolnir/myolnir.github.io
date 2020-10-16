@@ -4,6 +4,7 @@
     <list default="true" id="da49c2e8-0e21-45fd-a51f-368592a28d25" name="Default" comment="feat(resume): added new resume with last updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/career/openbank.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/career/openbank.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +17,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="myolnir.github.io" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>github</find>
-      <find>social</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,17 +56,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/career" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/_theme_packages" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\development\myolnirProjects\myolnir.github.io\img\career" />
       <recent name="C:\development\myolnirProjects\myolnir.github.io\docs" />
       <recent name="C:\Desarrollo\ideaProjects\myolnir.github.io\_posts" />
       <recent name="C:\Desarrollo\ideaProjects\myolnir.github.io\docs" />
       <recent name="$PROJECT_DIR$/img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/img/career" />
-      <recent name="$PROJECT_DIR$/_theme_packages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -165,7 +157,7 @@
       <workItem from="1483514511984" duration="24000" />
       <workItem from="1485155942745" duration="1050000" />
       <workItem from="1561918879139" duration="931000" />
-      <workItem from="1602845268513" duration="278000" />
+      <workItem from="1602845268513" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="changed config">
       <created>1458566494719</created>
